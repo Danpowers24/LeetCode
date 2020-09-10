@@ -30,4 +30,4 @@ longestCommonPrefix(strs)
 
 
 
-// 
+// I wasn't as close as I thought I was. Nested for loops seems like a good way to solve this. 
